@@ -1,0 +1,15 @@
+  "title":"",
+  "description":"",
+  "code":"",
+  "price": ,
+  "status": true,
+  "category":"",
+  "stock":""
+
+  "title":"Camiseta suplente",
+  "description":"San Lorenzo y su nueva camiseta. Esta casaca es una representación abstracta del cuervo. Cuenta con unos detalles geométricos de color azul que representan la furia de los cuervos; sobre una base blanca que envuelve a toda la camiseta",
+  "code":"sl3",
+  "price":50000 ,
+  "status": true,
+  "category":"equipacion",
+  "stock":"12"
